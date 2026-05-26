@@ -157,7 +157,24 @@ Right now, `vm-db-01` is accepting traffic. We want to ensure ONLY the Web Subne
 Delete `rg-lab02-[yourname]`.
 
 
+
+
+
+
+
+
+
 ALL DONE!!!
+
+
+
+
+
+
+
+
+
+
 
 
 
